@@ -43,6 +43,7 @@ sql_2 = current_directory.joinpath('data_files', 'sql_files', '2_skills_for_top_
 sql_3b = current_directory.joinpath('data_files', 'sql_files', '3b_highest_demand_skills_by_remote_job.sql')
 sql_4 = current_directory.joinpath('data_files', 'sql_files', '4_most_important_skills_to_learn.sql')
 sql_5 = current_directory.joinpath('data_files', 'sql_files', '5_skills_to_salaries.sql')
+sql_6 = current_directory.joinpath('data_files', 'sql_files', '6_total_posts_by_country.sql')
 
 # list of all of our sql files
 sql_query_list = [
@@ -50,7 +51,8 @@ sql_query_list = [
     sql_2,
     sql_3b,
     sql_4,
-    sql_5
+    sql_5,
+    sql_6
 ]
 
 # list of all of our file paths for the project

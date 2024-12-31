@@ -1,29 +1,30 @@
-2024-12-30 19:15:35,544::DEBUG::protocol::175::= connection is CONNECTING
-2024-12-30 19:15:35,544::DEBUG::client::306::> GET /notify HTTP/1.1
-2024-12-30 19:15:35,544::DEBUG::client::308::> Host: 127.0.0.1:55341
-2024-12-30 19:15:35,544::DEBUG::client::308::> Upgrade: websocket
-2024-12-30 19:15:35,544::DEBUG::client::308::> Connection: Upgrade
-2024-12-30 19:15:35,544::DEBUG::client::308::> Sec-WebSocket-Key: LH/SeMlf/Ghbx/ny3f8dOA==
-2024-12-30 19:15:35,544::DEBUG::client::308::> Sec-WebSocket-Version: 13
-2024-12-30 19:15:35,544::DEBUG::client::308::> Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
-2024-12-30 19:15:35,544::DEBUG::client::308::> Shiny-Autoreload-Secret: 0dbf78901d9ab7d9bc406076a6b19d5988d5b99cf04bc934dc7ba9f1aad47a48
-2024-12-30 19:15:35,544::DEBUG::client::308::> User-Agent: Python/3.13 websockets/14.1
-2024-12-30 19:15:35,545::DEBUG::client::329::< HTTP/1.1 101 Switching Protocols
-2024-12-30 19:15:35,545::DEBUG::client::331::< Date: Tue, 31 Dec 2024 00:15:35 GMT
-2024-12-30 19:15:35,545::DEBUG::client::331::< Upgrade: websocket
-2024-12-30 19:15:35,545::DEBUG::client::331::< Connection: Upgrade
-2024-12-30 19:15:35,545::DEBUG::client::331::< Sec-WebSocket-Accept: zNyf/5bKC6qwFDUynyQdhWHL7DI=
-2024-12-30 19:15:35,545::DEBUG::client::331::< Sec-WebSocket-Extensions: permessage-deflate; server_max_window_bits=12; client_max_window_bits=12
-2024-12-30 19:15:35,545::DEBUG::client::331::< Server: Python/3.13 websockets/14.1
-2024-12-30 19:15:35,545::DEBUG::protocol::175::= connection is OPEN
-2024-12-30 19:15:35,545::DEBUG::protocol::745::> TEXT 'reload_end' [10 bytes]
-2024-12-30 19:15:35,545::DEBUG::protocol::745::> CLOSE 1000 (OK) [2 bytes]
-2024-12-30 19:15:35,545::DEBUG::protocol::175::= connection is CLOSING
-2024-12-30 19:15:35,546::DEBUG::protocol::599::< CLOSE 1000 (OK) [2 bytes]
-2024-12-30 19:15:35,546::DEBUG::protocol::649::< EOF
-2024-12-30 19:15:35,546::DEBUG::protocol::757::> EOF
-2024-12-30 19:15:35,546::DEBUG::protocol::175::= connection is CLOSED
-2024-12-30 19:15:35,546::DEBUG::connection::950::x half-closing TCP connection
-2024-12-30 19:15:35,693::INFO::functions::21::Successfully created pandas dataframe from sql file /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/4_most_important_skills_to_learn.sql
-2024-12-30 19:15:35,875::INFO::functions::21::Successfully created pandas dataframe from sql file /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/3b_highest_demand_skills_by_remote_job.sql
-2024-12-30 19:15:35,894::INFO::functions::21::Successfully created pandas dataframe from sql file /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/5_skills_to_salaries.sql
+2024-12-30 20:28:28,453::DEBUG::protocol::175::= connection is CONNECTING
+2024-12-30 20:28:28,453::DEBUG::client::306::> GET /notify HTTP/1.1
+2024-12-30 20:28:28,454::DEBUG::client::308::> Host: 127.0.0.1:55341
+2024-12-30 20:28:28,454::DEBUG::client::308::> Upgrade: websocket
+2024-12-30 20:28:28,454::DEBUG::client::308::> Connection: Upgrade
+2024-12-30 20:28:28,454::DEBUG::client::308::> Sec-WebSocket-Key: 2xe2TY2JtaJi3GPZtr8heQ==
+2024-12-30 20:28:28,454::DEBUG::client::308::> Sec-WebSocket-Version: 13
+2024-12-30 20:28:28,454::DEBUG::client::308::> Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+2024-12-30 20:28:28,454::DEBUG::client::308::> Shiny-Autoreload-Secret: 9a84eff653090c4cdf75c77e67816052141f4dd35459d8c3e0c7cecca8b68bf3
+2024-12-30 20:28:28,454::DEBUG::client::308::> User-Agent: Python/3.13 websockets/14.1
+2024-12-30 20:28:28,454::DEBUG::client::329::< HTTP/1.1 101 Switching Protocols
+2024-12-30 20:28:28,454::DEBUG::client::331::< Date: Tue, 31 Dec 2024 01:28:28 GMT
+2024-12-30 20:28:28,454::DEBUG::client::331::< Upgrade: websocket
+2024-12-30 20:28:28,454::DEBUG::client::331::< Connection: Upgrade
+2024-12-30 20:28:28,454::DEBUG::client::331::< Sec-WebSocket-Accept: X4Puj2VO4qjAAhwCRfYGcuu4NCk=
+2024-12-30 20:28:28,454::DEBUG::client::331::< Sec-WebSocket-Extensions: permessage-deflate; server_max_window_bits=12; client_max_window_bits=12
+2024-12-30 20:28:28,454::DEBUG::client::331::< Server: Python/3.13 websockets/14.1
+2024-12-30 20:28:28,454::DEBUG::protocol::175::= connection is OPEN
+2024-12-30 20:28:28,454::DEBUG::protocol::745::> TEXT 'reload_end' [10 bytes]
+2024-12-30 20:28:28,455::DEBUG::protocol::745::> CLOSE 1000 (OK) [2 bytes]
+2024-12-30 20:28:28,455::DEBUG::protocol::175::= connection is CLOSING
+2024-12-30 20:28:28,455::DEBUG::protocol::599::< CLOSE 1000 (OK) [2 bytes]
+2024-12-30 20:28:28,455::DEBUG::protocol::649::< EOF
+2024-12-30 20:28:28,455::DEBUG::protocol::757::> EOF
+2024-12-30 20:28:28,455::DEBUG::protocol::175::= connection is CLOSED
+2024-12-30 20:28:28,455::DEBUG::connection::950::x half-closing TCP connection
+2024-12-30 20:28:28,632::INFO::functions::21::Successfully created pandas dataframe from sql file /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/4_most_important_skills_to_learn.sql
+2024-12-30 20:28:28,794::INFO::functions::21::Successfully created pandas dataframe from sql file /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/3b_highest_demand_skills_by_remote_job.sql
+2024-12-30 20:28:28,813::INFO::functions::21::Successfully created pandas dataframe from sql file /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/5_skills_to_salaries.sql
+2024-12-30 20:28:28,906::INFO::functions::21::Successfully created pandas dataframe from sql file /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/6_total_posts_by_country.sql

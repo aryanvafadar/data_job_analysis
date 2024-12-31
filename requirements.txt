@@ -1,0 +1,12 @@
+logging
+datetime
+typing
+pathlib
+pandas
+numpy
+pyscop
+psycopg_binary
+shiny
+shinywidgets
+folium
+plotly

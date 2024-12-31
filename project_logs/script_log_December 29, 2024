@@ -1,0 +1,11 @@
+2024-12-29 22:06:13,882::INFO::config::70::File path for /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/2_skills_for_top_paying_jobs.sql exists!
+2024-12-29 22:06:13,882::INFO::config::70::File path for /Users/aryanvafadar/Documents/GitHub/data_job_analysis/project_logs exists!
+2024-12-29 22:06:13,882::INFO::config::70::File path for /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/4_most_important_skills_to_learn.sql exists!
+2024-12-29 22:06:13,882::INFO::config::70::File path for /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/csv_files/company_dim.csv exists!
+2024-12-29 22:06:13,882::INFO::config::70::File path for /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/csv_files/new_job_postings_fact.csv exists!
+2024-12-29 22:06:13,882::INFO::config::70::File path for /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/3a_highest_demand_skills_by_remote_job.sql exists!
+2024-12-29 22:06:13,882::INFO::config::70::File path for /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/1_top_paying_jobs.sql exists!
+2024-12-29 22:06:13,920::INFO::functions::21::Successfully created pandas dataframe from sql file /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/1_top_paying_jobs.sql
+2024-12-29 22:06:13,943::INFO::functions::21::Successfully created pandas dataframe from sql file /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/2_skills_for_top_paying_jobs.sql
+2024-12-29 22:06:13,959::INFO::functions::21::Successfully created pandas dataframe from sql file /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/3a_highest_demand_skills_by_remote_job.sql
+2024-12-29 22:06:13,974::INFO::functions::21::Successfully created pandas dataframe from sql file /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/4_most_important_skills_to_learn.sql

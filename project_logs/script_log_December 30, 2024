@@ -28,3 +28,7 @@
 2024-12-30 20:28:28,794::INFO::functions::21::Successfully created pandas dataframe from sql file /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/3b_highest_demand_skills_by_remote_job.sql
 2024-12-30 20:28:28,813::INFO::functions::21::Successfully created pandas dataframe from sql file /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/5_skills_to_salaries.sql
 2024-12-30 20:28:28,906::INFO::functions::21::Successfully created pandas dataframe from sql file /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/6_total_posts_by_country.sql
+2024-12-30 20:52:41,303::INFO::functions::21::Successfully created pandas dataframe from sql file /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/4_most_important_skills_to_learn.sql
+2024-12-30 20:52:41,368::INFO::functions::21::Successfully created pandas dataframe from sql file /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/3b_highest_demand_skills_by_remote_job.sql
+2024-12-30 20:52:41,389::INFO::functions::21::Successfully created pandas dataframe from sql file /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/5_skills_to_salaries.sql
+2024-12-30 20:52:41,475::INFO::functions::21::Successfully created pandas dataframe from sql file /Users/aryanvafadar/Documents/GitHub/data_job_analysis/data_files/sql_files/6_total_posts_by_country.sql
